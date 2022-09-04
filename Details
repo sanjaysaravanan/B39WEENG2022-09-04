@@ -1,0 +1,77 @@
+Topics:
+
+  Array Method:
+    Reduce
+
+  HTML --> Hyper Text Mark Up Language
+            HTML
+  DOM --> Document Object Model
+  DOM structure -> skeleton of a webpage
+    HTML ultimate parent
+      | --> HEAD
+            | --> Title
+      | --> BODY
+            | --> H1 --> text content B39WEENG
+            | --> div
+                  | --> h2 ---> text content Home: 2022-09-04
+
+  body: browser parses all the content inside and displays it in the view area of a browser
+  head: 
+    meta: tells/describes/instructs behaviour about the web-page. 
+    title -> title for the page
+    link: link external doc/file to the html
+    script: tag 
+
+  Tags: special ability accompanied by each to render content in the webpage
+
+    h1 --> has the ability to increase font-size and change font-weight
+      <h1> ---> opening tag
+        content ---> goes between opening & closing tag
+      </h1> ---> closing tag
+    i --> italics 
+    b ---> bold
+  
+  Self Closing Tags:
+    <br /> ---> lione break
+    <hr /> ---> horizontal line
+    <img />
+
+  attributes --> properties for a particular tag on how to render the content
+    self closing:
+      img ---> src & alt attributes are must
+
+  Few Basic Tags in HTML:
+    heading -> h1, h2, h3, h4, h5, h6
+    anchor -> a with href and target attribute
+    div --> occupies the enitire horizontal width/space
+    span --> occupies only the horizontal width/space needed for it
+
+    image
+
+    block tags/elements:
+      occupies the enitire horizontal width/space
+        Examples: div, p, heading
+    
+    inline tags/elements:
+      occupies only the horizontal width/space needed for it
+        Example: span, i, b, img
+
+    list --> Listing item 
+      ol --> ordered list & type attribute
+      ul --> unordered list no type attribute need to use style
+
+    audio
+    video
+    iframe
+
+  
+  Next Session:
+    Table
+    forms:
+      input element, lable
+      form submit
+
+    basic styling, CSS ---> Cascading Style Sheet --> beautification, cosmetic of webpage
+
+    basically a style only under certain keys with certain values
+      key: value pair ( set keys already defined for css with certains values )
