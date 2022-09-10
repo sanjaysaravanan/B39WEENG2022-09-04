@@ -49,7 +49,7 @@ Topics:
     image
 
     block tags/elements:
-      occupies the enitire horizontal width/space
+      occupies the enitire horizontal width/space and always starts in newling
         Examples: div, p, heading
     
     inline tags/elements:
